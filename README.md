@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - Ensure the node is installed
--Base url is provided in the playwright.config
 -Using vscode open the folder run npm i to install the packages 
+--Base url is provided in the playwright.config
 -POM folder has two files data.json and login.ts
 -data.json has test data in it and login.ts has the locators and methods
 -Utilities folder has utilities file which has common helper functions used in the project
