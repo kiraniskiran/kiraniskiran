@@ -1,0 +1,14 @@
+
+{
+    "loginDetails":
+    {
+        "username":"standard_user",
+        "password":"secret_sauce"
+    },
+    "invalidLoginDetails":
+    {
+        "username":"testuser",
+        "password":"testpassword"
+    }
+
+}
